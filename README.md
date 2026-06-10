@@ -38,3 +38,14 @@ is me , update later
 ## 🐍 Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/EthanMoodley/EthanMoodley/output/github-contribution-grid-snake-dark.svg)
+
+##Contact Me:
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:moodleyethan@icloud.com">
+  <img src="https://img.shields.io/badge/Email-007AFF?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
+
