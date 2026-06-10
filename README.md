@@ -41,7 +41,7 @@ is me , update later
 
 ##Contact Me:
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/" target="_blank">
+<a href="https://www.linkedin.com/in/ethan-moodley-b8524a293/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
