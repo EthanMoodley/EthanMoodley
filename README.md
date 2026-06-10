@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 is me , update later
+
+## 🐍 Contributions
+
+![Snake animation](https://raw.githubusercontent.com/EthanMoodley/EthanMoodley/output/github-contribution-grid-snake-dark.svg)
