@@ -1,6 +1,6 @@
-👋 Hi, I'm Ethan Moodley
+##👋 Hi, I'm Ethan Moodley
 
-Full-Stack Developer | Embedded Systems Enthusiast | Computer Science Graduate
+## Full-Stack Developer | Embedded Systems Enthusiast | Computer Science Graduate
 
 I'm passionate about building software that solves real-world problems. My interests include full-stack development, embedded systems, robotics, cloud technologies, and machine learning.
 
