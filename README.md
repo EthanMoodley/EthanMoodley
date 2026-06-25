@@ -1,4 +1,4 @@
-##👋 Hi, I'm Ethan Moodley
+##👋 Hi, I'm Ethan
 
 ## Full-Stack Developer | Embedded Systems Enthusiast | Computer Science Graduate
 
@@ -8,10 +8,10 @@ Currently improving my skills in:
 
 ☁️ AWS Cloud
 
-🤖 Machine Learning
-⚙️ Embedded Systems (ESP32)
-💻 Data Structures & Algorithms
-🌐 Modern Web Development
+- 🤖 Machine Learning 
+- ⚙️ Embedded Systems (ESP32) 
+- 💻 Data Structures & Algorithms 
+- 🌐 Modern Web Development 
 
 I'm always looking for opportunities to learn, build, and collaborate on meaningful projects.
 
