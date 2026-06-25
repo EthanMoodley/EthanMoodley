@@ -1,4 +1,4 @@
-##👋 Hi, I'm Ethan
+👋 Hi, I'm Ethan
 
 ## Full-Stack Developer | Embedded Systems Enthusiast | Computer Science Graduate
 
