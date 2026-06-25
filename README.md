@@ -1,20 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Ethan Moodley
 
-<!--
-**EthanMoodley/EthanMoodley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Embedded Systems Enthusiast | Computer Science Graduate
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real-world problems. My interests include full-stack development, embedded systems, robotics, cloud technologies, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-is me , update later
+Currently improving my skills in:
+
+☁️ AWS Cloud
+🤖 Machine Learning
+⚙️ Embedded Systems (ESP32)
+💻 Data Structures & Algorithms
+🌐 Modern Web Development
+
+I'm always looking for opportunities to learn, build, and collaborate on meaningful projects.
 
 ## 🚀 Tech Stack
 
