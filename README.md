@@ -7,6 +7,7 @@ I'm passionate about building software that solves real-world problems. My inter
 Currently improving my skills in:
 
 ☁️ AWS Cloud
+
 🤖 Machine Learning
 ⚙️ Embedded Systems (ESP32)
 💻 Data Structures & Algorithms
